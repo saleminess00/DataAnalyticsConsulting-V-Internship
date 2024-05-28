@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains only the Data Quality Assessment and Exploratory Data Analysis (EDA) notebookscompleted in November 2023.
+This repository contains only the Data Quality Assessment and Exploratory Data Analysis (EDA) notebooks for the KPMG Australia Data Analytics Consulting Internship completed in November 2023.
 
 ## Contents
 
