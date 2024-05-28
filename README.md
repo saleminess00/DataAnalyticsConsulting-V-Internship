@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains only the Data Quality Assessment and Exploratory Data Analysis (EDA) notebooks.
+This repository contains only the Data Quality Assessment and Exploratory Data Analysis (EDA) notebookscompleted in November 2023.
 
 ## Contents
 
